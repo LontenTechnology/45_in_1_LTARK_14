@@ -3,7 +3,7 @@
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
 https://github.com/LontenTechnology/45_in_1_LTARK_14
-<img src='list.png' width='100%'/>
+<img src='list.jpg' width='100%'/>
 
 ### Download
 
